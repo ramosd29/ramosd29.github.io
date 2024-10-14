@@ -1,0 +1,47 @@
+
+
+/* lista */
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+/* titulo */
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&family=Playwrite+CU:wght@100..400&display=swap');
+
+#prueba{color: aqua;}
+
+video{ height: 40vh;}
+
+img{
+    height: 40vh;
+}
+
+/* clases globales */
+.nerko-one-regular {
+    font-family: "Nerko One", cursive;
+    font-weight: 100;
+    font-style: normal;
+    text-align: left;
+  }
+  
+  h1{ text-align: center
+    ;}
+
+
+/* Estilos de la tabla */
+table{
+  border: 1px black
+}
+
+ th td{
+  border: 1px solid black
+}
+
+
+form{ 
+ padding: 10px;
+ display: flex;
+ flex-direction: column;
+  background-color: rgb(49, 49, 143);
+ text-align: center;
+ align-items: center
+  border solid 3px black 
+
+}
